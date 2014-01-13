@@ -1,0 +1,6 @@
+ADJ1 adjective
+ADJ2 adjective
+NOUN1 noun
+NOUN2 noun
+***
+Mary had a ADJ1 lamb, ADJ1 lamb, Mary had a ADJ1 lamb whose NOUN1 was ADJ2 as NOUN2.

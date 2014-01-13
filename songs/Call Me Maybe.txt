@@ -1,0 +1,45 @@
+NOUN1 NOUN
+NOUN2 NOUN
+NOUN3 NOUN
+NOUN4 NOUN
+PLURALN1 PLURAL NOUN
+VERB1 VERB
+VERB2 VERB
+VERB3 VERB
+INGVERB1 ING-VERB
+INGVERB2 ING-VERB
+INGVERB3 ING-VERB
+PETNAME1 A PETNAME
+ADJ1 ADJECTIVE
+ADJ2 ADJECTIVE
+CLOTHING1 CLOTHING ITEM
+***
+I threw a NOUN1 in the well,
+Don't VERB1 me, I'll never tell
+I looked to you as it fell,
+And now you're in my way
+
+I'd trade my NOUN2 for a NOUN1,
+Pennies and dimes for a NOUN3
+I wasn't looking for this,
+But now you're in my way
+
+Your stare was INGVERB1,
+Ripped CLOTHING1, skin was INGVERB2
+ADJ1 night, wind was INGVERB3
+Where you think you're going, PETNAME1?
+
+Hey, I just met you,
+And this is ADJ2,
+But here's my NOUN4,
+So VERB2 me, maybe?
+
+It's hard to VERB3 right,
+At you PETNAME1,
+But here's my NOUN4,
+So VERB2 me, maybe?
+
+And all the other PLURALN1,
+Try to VERB3 me,
+But here's my NOUN4,
+So VERB2 me, maybe?

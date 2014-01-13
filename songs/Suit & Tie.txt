@@ -1,0 +1,60 @@
+ADJ1 ADJECTIVE
+ADJ2 ADJECTIVE
+NOUN1 NOUN
+VERB1 VERB
+ADJ3 ADJECTIVE
+INGV1 ING-VERB
+VERB2 VERB
+VERB3 VERB
+ADJ4 ADJECTIVE
+NOUN2 NOUN
+CLOTHING1 CLOTHING ITEM
+CLOTHING2 CLOTHING ITEM
+VERB4 PAST TENSE VERB
+VERB5 VERB
+COLOR1 COLOR
+COLOR2 COLOR
+CLOTHING3 CLOTHING ITEM
+EMOTION1 EMOTION NOUN
+VERB6 ING-VERB
+VERB7 VERB
+ADJ5 ADJECTIVE
+ADJ6 ADJECTIVE
+NICKNAME1 NICKNAME
+EMOTION2 EMOTION ADJECTIVE
+NOUN3 NOUN
+NOUN4 NOUN
+***
+I can't wait 'til I get you on the floor, ADJ1-looking
+Going ADJ2, so ADJ2, just like a NOUN1
+And I'll VERB1 myself, but just had to touch it
+But it's so ADJ3 and it's all mine
+Hey baby, we don't mind all the INGV1, ha
+Cause if they VERB2 close, real close
+They might VERB3 something
+She ain't nothing but a ADJ4 NOUN2 when she does it
+She's so ADJ3 tonight
+
+And as long as I got my CLOTHING1 and CLOTHING2
+I'ma leave it all on the floor tonight
+And you got VERB4 up to the nines
+Let me VERB5 you a few things
+All pressed up in COLOR1 and COLOR2
+And you're dressed in that CLOTHING3 I like
+EMOTION1 is VERB6 in the air tonight
+Let me VERB5 you a few things
+Let me VERB5 you a few things
+VERB5 you a few things about EMOTION1
+Now we're in the swing of EMOTION1
+Let me VERB5 you a few things
+VERB5 you a few things about EMOTION1
+Hey
+
+Stop, let me get a good VERB7 at it
+Oh, so ADJ5, now I know why they call it a fatty
+And aww, shit's so ADJ6, got a hit and picked up a habit
+But that's alright, cause you're all mine
+Awww, go on and show 'em who you call "NICKNAME1"
+I guess they're just EMOTION2 cause girl, they wish they had it
+Oh, my NOUN3, my NOUN4, yeah, you're a classic
+And you're all mine tonight

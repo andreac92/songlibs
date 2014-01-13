@@ -1,0 +1,74 @@
+NOUN1 NOUN
+VERB1 VERB
+VERB2 VERB
+PLURALN1 PLURAL NOUN
+BODYP1 BODY PART
+NOUN2 NOUN
+EPHRASE1 EXCLAMATORY PHRASE
+NOUN3 NOUN
+VERB3 VERB
+PERSON1 PERSON
+PLACE1 PLACE
+PLURALN2 PLURAL NOUN
+VERB4 VERB
+NOUN4 NOUN
+NOUN5 NOUN
+VERB5 VERB
+NOUN6 NOUN
+PPL1 GROUP OF PEOPLE
+BODYP2 BODY PART
+INGV1 ING-VERB
+NOUN7 NOUN
+PERSON2 PERSON
+PPL2 GROUP OF PEOPLE
+ROOM1 ROOM
+VERB6 PAST TENSE VERB
+***
+It's our NOUN1 we can do what we want
+It's our NOUN1 we can say what we want
+It's our NOUN1 we can love who we want
+We can VERB1 who we want
+We can VERB2 what we want
+
+Red cups and sweaty PLURALN1 everywhere
+BODYP1 in the air like we don't care
+'Cause we came to have so much NOUN2 now
+Bet somebody here might get some now
+
+If you're not ready to go home
+Can I get a "EPHRASE1!"? (EPHRASE1)
+'Cause we're gonna go all night
+'Til we see the NOUN3, alright
+
+So la da di da di
+We like to VERB3
+Dancing with PERSON1
+Doing whatever we want
+This is our PLACE1
+This is our PLURALN2
+
+And we can't VERB4
+And we won't VERB4
+Can't you see it's we who own the NOUN4?
+Can't you see it's we who 'bout that NOUN5?
+
+And we can't VERB4
+And we won't VERB4
+We VERB5 things, things don't VERB5 we
+Don't take NOUN6 from nobody
+Yeah, yeah
+
+It's our NOUN1 we can do what we want
+It's our NOUN1 we can say what we want
+It's our NOUN1 we can love who we want
+We can VERB1 who we want
+We can VERB2 what we want
+
+To my home PPL1 here with the big BODYP2
+INGV1 it like we at a NOUN7 club
+Remember only PERSON2 can judge ya
+Forget the PPL2 'cause somebody loves ya
+And everyone in line in the ROOM1
+Trying to get a line in the ROOM1
+We all so VERB6 up here
+Getting VERB6 up, yeah, yeah

@@ -1,0 +1,64 @@
+NOUN1 NOUN
+VERB1 VERB
+PLURALN1 PLURAL NOUN
+NOUN2 NOUN
+PLACE1 PLACE
+EMOTION1 EMOTION NOUN
+NOUN3 NOUN
+COLOR1 COLOR
+ROOM1 ROOM
+PLURALN2 PLURAL NOUN
+CLOTHING1 CLOTHING ITEM
+INGV1 ING-VERB
+CAR1 TYPE OF VEHICLE
+PLURALN3 PLURAL NOUN
+ANIMAL1 ANIMAL
+EMOTION2 EMOTION ADJECTIVE
+PLURALN4 PLURAL NOUN
+VERB2 VERB
+NOUN4 NOUN
+NOUN5 NOUN
+OCCUPATION1 OCCUPATION
+NICKNAME1 NICKNAME
+VERB3 VERB
+VERB4 PAST TENSE VERB
+VERB5 VERB
+TRANSPORT1 TYPE OF VEHICLE
+ADJ1 ADJECTIVE
+NOUN6 NOUN
+COMPA1 COMPARATIVE ADJECTIVE
+ADJ2 ADJECTIVE
+DRINK1 TYPE OF DRINK
+***
+I've never seen a NOUN1 in the flesh
+I VERB1 my teeth on wedding PLURALN1 in the movies
+And I'm not proud of my NOUN2,
+In a torn-up PLACE1, no postcode EMOTION1
+
+But every song's like gold NOUN3, COLOR1 goose, trippin' in the ROOM1
+Blood PLURALN2, ball CLOTHING1, INGV1 the hotel room,
+We don't care, we're driving CAR1 in our dreams.
+But everybody's like DRINK1, Maybach, PLURALN3 on your timepiece.
+Jet planes, PLURALN4, ANIMAL1 on a gold leash.
+We don't care, we aren't caught up in your EMOTION2 affair.
+
+And we'll never be PLURALN4 (PLURALN4).
+It don't VERB2 in our blood,
+That kind of NOUN4 just ain't for us.
+We crave a different kind of NOUN5.
+Let me be your OCCUPATION1 (OCCUPATION1),
+You can call me queen NICKNAME1
+And baby I'll VERB3, I'll VERB3, I'll VERB3, I'll VERB3.
+Let me live that fantasy.
+
+My friends and I, we've VERB4 the code.
+We VERB5 our dollars on the TRANSPORT1 to the party.
+And everyone who knows us knows that we're ADJ1 with this,
+We didn't come from NOUN6.
+
+Ooh ooh oh
+We're COMPA1 than we ever dreamed,
+And I'm in love with being queen.
+Ooh ooh oh
+Life is ADJ2 without a care
+We aren't caught up in your EMOTION2 affair.

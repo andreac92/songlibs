@@ -1,0 +1,56 @@
+NOUN1 NOUN
+NOUN2 NOUN
+NOUN3 NOUN
+NOUN4 NOUN
+NOUN5 NOUN
+NOUN6 NOUN
+NOUN7 NOUN
+NOUN8 NOUN
+NOUN9 NOUN
+ADJ1 ADJECTIVE
+ADJ2 ADJECTIVE
+ADJ3 ADJECTIVE
+ADJ4 ADJECTIVE
+ADJ5 ADJECTIVE
+PLACE1 PLACE
+STORE1 STORE
+STORE2 STORE
+STORE3 STORE
+BODYPART1 BODY PART
+INGVERB1 ING VERB
+INGVERB2 ING VERB
+INGVERB3 ING VERB
+PERSON1 PERSON
+ROOM1 ROOM
+NICKNAME1 NICKNAME
+INSTRUMENT1 INSTRUMENT
+SOUND1 SOUND
+COUNTRY1 COUNTRY
+PNOUN1 PLURAL NOUN
+NUMBER1 NUMBER
+***
+They ask me what I do and who I do it for
+And how I come up with this NOUN1 up in the PLACE1
+All I want for my birthday is a ADJ1 booty NOUN2
+All I want for my birthday is a ADJ1 booty NOUN2
+When I die, bury me inside the STORE1 store
+When I die, bury me inside the STORE2 store
+All I want for my birthday is a ADJ1 booty NOUN2
+All I want for my birthday is a ADJ1 booty NOUN2
+
+She got a ADJ1 booty so I call her ADJ1 Booty
+Scrr..Scrr.. BODYPART1 INGVERB1, INGVERB2, getting to it
+I'm in the ROOM1, NOUN3 everywhere
+Just made a NOUN4, I got NOUN5 everywhere
+You the realest NICKNAME1 breathing if I hold my breath
+Referee, with the INSTRUMENT1, SOUND1, hold his tech
+Extendo clip, extendo roll
+When your PERSON1 leave me she need a hair NOUN6
+Hair weave killer going on a NOUN7
+See I done had more NOUN8s than COUNTRY1
+ADJ2 NOUN8, ADJ3 NOUN8, and a ADJ4 NOUN8
+See NICKNAME1, I'm INGVERB3, you in will call
+When I die, bury me inside the NOUN9 store
+When I die, bury me inside the STORE3 store
+True to my religion, two everything I'm too ADJ5
+So when I die, bury me next to NUMBER1 PNOUN1

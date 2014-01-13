@@ -1,0 +1,59 @@
+NOUN1 NOUN
+PPL1 GROUP OF PEOPLE
+PLACE1 PLACE
+COMPA1 COMPARATIVE ADJECTIVE
+VERB1 VERB
+VERB2 VERB
+PPL2 GROUP OF PEOPLE
+ADJ1 ADJECTIVE
+VERB3 VERB
+PLURALN1 PLURAL NOUN
+VERB4 VERB
+VERB5 VERB
+VERB6 ING-VERB
+VERB7 VERB
+PLURALN2 PLURAL NOUN
+PPL3 GROUP OF PEOPLE
+ADJ2 ADJECTIVE
+VERB8 PAST TENSE VERB
+NOUN2 NOUN
+NOUN3 NOUN
+NOUN4 NOUN
+BODYP1 PLURAL BODY PART
+ADJ3 ADJECTIVE
+NOUN5 NOUN
+***
+My NOUN1 brings all the PPL1 to the PLACE1,
+And they're like
+It's COMPA1 than yours,
+Damn right it's COMPA1 than yours,
+I can VERB1 you, 
+But I have to VERB2
+
+I know you VERB3 it, 
+The thing that makes me, 
+What the PPL2 go ADJ1 for.
+They lose their PLURALN1, 
+The way I VERB4,
+I think its time
+
+La la-la la la,
+VERB5 it up.
+Lala-lalala,
+The PPL1 are VERB6
+
+I can see youre on it,
+You want me to VERB7 thee
+PLURALN2 that freaks these PPL1,
+It can't be bought,
+Just know, PPL3 get caught,
+Watch if you're ADJ2
+
+Oh, once you get VERB8,
+Everyone will look this way-so,
+You must maintain your NOUN2,
+Same time maintain your NOUN3,
+Just get the perfect NOUN4,
+Plus what you have within,
+Then next his BODYP1 are ADJ3,
+Then he's picked up your NOUN5
