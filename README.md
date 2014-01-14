@@ -5,7 +5,7 @@ A fun and easy to play madlibs game where you fill in the words to your favorite
 
 To Get Started
 ---------------
-Download the source files and the "songs" file.
+Download the source files and the "songs" folder.
 
 Compile the source files (gameGUI is the main class) or run them in Eclipse. The "songs" folder must be located in the same directory as the running program. If you would rather just run the JAR file, download the zip file at the following:
 
