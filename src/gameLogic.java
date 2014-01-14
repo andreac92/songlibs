@@ -58,13 +58,18 @@ public class gameLogic {
 		cd+="/songs";
 		final File folder = new File(cd);
 		File[] songs = folder.listFiles();
-		for (File file : songs) {
-			if (file.getName().startsWith(".")){
-				continue;
-			}
+		try {
+			for (File file : songs) {
+				if (file.getName().startsWith(".")){
+					continue;
+				}
 			songChoices.setProperty(file.getName().substring(0, file.getName().length() - 4), file.toString());
+				}
+		} catch (NullPointerException e) {
+			
 		}
 	}
+	
 	/**
 	 * For testing purposes -- 1. list the options from properties file
 	 * 2. Choose song option through command line
@@ -108,7 +113,7 @@ public class gameLogic {
 		return toRtn;
 	}
 	/**
-	 * Select the song choice, and its text file from the property file
+	 * Select the song choice's text file from the property file
 	 */
 	public void choose(String choice){
 		songName = choice;

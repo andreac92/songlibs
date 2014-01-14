@@ -110,7 +110,7 @@ private int makePlayScreen() {
 private void makeSubmit(int i){
 	JButton jb = new JButton("Submit");
 	jb.addActionListener(new submitActions());
-	jb.setBounds(5, i, 61, 16);
+	jb.setBounds(5, i, 70, 16);
 	madlibPage.add(jb);
 	madlibPage.setPreferredSize(new Dimension(400, i+40));
 	madlibPage.revalidate();
@@ -214,7 +214,7 @@ private void redoAction() {
 private void makeStartPage(){
 	frmSonglibs = new JFrame();
 	frmSonglibs.setTitle("SongLibs");
-	frmSonglibs.setBounds(100, 100, 450, 300);
+	frmSonglibs.setBounds(100, 100, 450, 315);
 	frmSonglibs.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 	frmSonglibs.getContentPane().setLayout(new CardLayout(0, 0));
 	cards = (JPanel) frmSonglibs.getContentPane();
@@ -235,7 +235,7 @@ private void makestartPageText() {
 	lblNewLabel.setBounds(48, 63, 374, 73);
 	startPage.add(lblNewLabel);
 	JLabel lblOr = new JLabel("- OR -");
-	lblOr.setBounds(178, 187, 61, 16);
+	lblOr.setBounds(180, 187, 61, 16);
 	startPage.add(lblOr);
 }
 /**
@@ -246,7 +246,7 @@ private void makeSongOptions() {
 	String[] options = chosenSong.getOptions();
 	comboBox = new JComboBox(options);
     comboBox.setEditable(false);
-	comboBox.setBounds(125, 148, 153, 27);
+	comboBox.setBounds(75, 148, 275, 27);
 	comboBox.addActionListener(new ActionListener() {
 	  @Override
 	  public void actionPerformed(ActionEvent e) {
